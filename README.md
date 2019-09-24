@@ -1,5 +1,5 @@
 
-# json databases for earthquake prediction meta-nalayses
+# json databases for earthquake prediction meta-analyses
 
 **DB_EQpred_ForeshockMinM_v1**: Corpus of 37 short-term foreshock studies (1982-2013). Ref: [Mignan, Sci. Rep., 2014](https://www.nature.com/articles/srep04099)
 
